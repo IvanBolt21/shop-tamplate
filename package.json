@@ -2,7 +2,7 @@
   "name": "shop-template",
   "version": "0.1.0",
   "homepage": "https://ivanbolt21.github.io/shop-template/",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@emotion/react": "^11.10.6",
     "@emotion/styled": "^11.10.6",
