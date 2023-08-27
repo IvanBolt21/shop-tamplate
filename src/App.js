@@ -10,7 +10,7 @@ import CategoryProducts from './Pages/CategoryProducts';
 import Product from './Pages/Product';
 import Faves from './Pages/Faves';
 import Search from './Pages/Search';
-
+console.log('public url: ', process.env.PUBLIC_URL)
 
 function App() {
   return (
